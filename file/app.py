@@ -9,7 +9,7 @@ st.set_page_config(page_title="AI Data Analyst (OpenRouter)", layout="wide")
 st.title("📊 SMART AI DATA ANALYST DASHBOARD (OpenRouter)")
 
 # ---------------- OPENROUTER API KEY ----------------
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 
 # ---------------- AI FUNCTION ----------------
 def ask_ai(prompt):
